@@ -1,3 +1,6 @@
 [submodule "GameConnectionCPP"]
 	path = GameConnectionCPP
 	url = https://github.com/ArtemSpider/GameConnectionCPP.git
+[submodule "client-cpp"]
+	path = client-cpp
+	url = https://github.com/ArtemSpider/GameConnectionCpp.git
