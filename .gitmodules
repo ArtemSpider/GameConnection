@@ -4,3 +4,6 @@
 [submodule "client-rust"]
 	path = client-rust
 	url = https://github.com/ArtemSpider/GameConnectionRust.git
+[submodule "server-ts"]
+	path = server-ts
+	url = https://github.com/ArtemSpider/GameConnectionServer_TS.git
